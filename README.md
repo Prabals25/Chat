@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 ## Acessible through : https://prabal-chat.netlify.app/
 
-Random UserName : user123
+Random UserName : user123 & user456
 Password : Ps258025
 
 
